@@ -2,7 +2,7 @@ import Heading from "../../components/New/Heading";
 import CommonHeroSection from "../../components/common/CommonHeroSection";
 
 import Layout from '../../components/Layout';
-import CreateRepoCard from "../../components/CloneProject/createRepoCard";
+import CreateRepoCard from "../../components/CloneProject/CreateRepoCard";
 import LeftOptions from "../../components/CloneProject/LeftOptions";
 
 function clone() {
