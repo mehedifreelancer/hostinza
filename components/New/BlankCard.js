@@ -1,4 +1,5 @@
-import TemplateCard from "./templateCard";
+import TemplateCard from './TemplateCard';
+
 
 function BlankCard() {
     return ( 
@@ -8,7 +9,8 @@ function BlankCard() {
               <h2 className="mb-5 text-black font-semibold text-xl">Clone Template</h2>
 
                <div className="grid grid-cols-2 gap-x-5 gap-y-1 ">
-                    <TemplateCard/>
+                   <TemplateCard />
+                   
                 </div>   
             </div>
        
