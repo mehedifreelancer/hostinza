@@ -1,0 +1,20 @@
+{
+  "..\\components\\Layout.js -> ./Footer": {
+    "id": "..\\components\\Layout.js -> ./Footer",
+    "files": [
+      "static/chunks/components_Footer_jsx.js"
+    ]
+  },
+  "index.js -> ../components/Home/HostinzaNetwork": {
+    "id": "index.js -> ../components/Home/HostinzaNetwork",
+    "files": [
+      "static/chunks/components_Home_HostinzaNetwork_js.js"
+    ]
+  },
+  "index.js -> ../components/Home/SearchDomain": {
+    "id": "index.js -> ../components/Home/SearchDomain",
+    "files": [
+      "static/chunks/components_Home_SearchDomain_js.js"
+    ]
+  }
+}
