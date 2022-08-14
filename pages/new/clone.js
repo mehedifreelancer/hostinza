@@ -1,5 +1,5 @@
 import Heading from "../../components/New/Heading";
-import CommonHeroSection from "../../components/common/CommonHeroSection";
+import CommonHeroSection from "../../components/Common/CommonHeroSection";
 
 import Layout from '../../components/Layout';
 import CreateRepoCard from "../../components/CloneProject/CreateRepoCard";

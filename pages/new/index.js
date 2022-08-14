@@ -2,7 +2,7 @@ import React from 'react';
 import FormCard from "../../components/New/FormCard";
 import BlankCard from "../../components/New/BlankCard";
 import Heading from "../../components/New/Heading";
-import CommonHeroSection from "../../components/common/CommonHeroSection";
+import CommonHeroSection from "../../components/Common/CommonHeroSection";
 
 import Layout from '../../components/Layout';
 
